@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\IR~SAGE\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\IR~SAGE\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Banking App Assignment.-1419512620.00" t="ExcludeRecursive" />
+    <e p="F:\Projects\Rider Projects\Banking App Assignment" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="BankAccount.cs" t="Include" />
+      <e p="Banking App Assignment.csproj" t="IncludeRecursive" />
+      <e p="Banking App Assignment.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Customer.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="Banking App Assignment.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+  </component>
+</project>
